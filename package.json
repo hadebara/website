@@ -2,7 +2,7 @@
   "name": "website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https:hadebara.github.io/website",
+  "homepage": "https:hadebara.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
